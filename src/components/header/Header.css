@@ -17,18 +17,40 @@
 
 .nav__logo,.nav__toggle{
     color: var(--title-color);
-    font-weight: var(--font-medium);
+    font-weight: 900;
+}
+.nav__logo{
+    font-size: 18px;
+
 }
 
 
 .nav__link{
     display: flex;
+    position: relative;
     flex-direction: column;
     align-items: center;
     font-size: 16px;
-    color: var(--title-color);
+    color: rgb(41, 41, 41);
     font-weight: var(--font-medium);
     transition: .3s;
+    cursor: pointer;
+    border: none;
+}
+.nav__link::before{
+    content: "";
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    background-color: rgb(71, 71, 71);
+    left: 0;
+    bottom: -5px;
+    transform: scale(0,1);
+    transition: transform 0.25s ease;
+    transform-origin: 0 100%;
+}
+.nav__link:hover::before{
+    transform: scale(1,1);
 }
 
 .nav__list{
@@ -43,6 +65,8 @@
 .activate-link,.nav__link:hover{
     color: var(--title-color-dark);
 }
+
+
 
 
 @media screen and (max-width:768px) {

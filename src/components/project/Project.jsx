@@ -9,7 +9,7 @@ import "./Project.css";
 
 const Project = () => {
     return(
-        <section className="project section" id="project">
+        <section className="project section" id="projectSection">
         <h2 className="section__title">Projects</h2>
         <span className="section__subtitle">My Projects</span>
         {/* <div className="project-container">

@@ -8,6 +8,12 @@
     padding-bottom: 5rem;
 }
 
+.project-card-2{
+    grid-template-columns: repeat(2,1fr);
+    background: whitesmoke;
+    padding: 1rem 1rem;
+}
+
 
 .project-card{
     background: whitesmoke;
