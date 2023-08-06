@@ -37,7 +37,7 @@
     cursor: pointer;
     border: none;
 }
-.nav__link::before{
+.nav__link:not(.activeClass)::before{
     content: "";
     position: absolute;
     height: 1px;
@@ -49,8 +49,19 @@
     transition: transform 0.25s ease;
     transform-origin: 0 100%;
 }
-.nav__link:hover::before{
+.nav__link:hover:not(.activeClass)::before{
     transform: scale(1,1);
+}
+.nav__link.activeClass::before{
+    content: "";
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    background-color: rgb(71, 71, 71);
+    left: 0;
+    bottom: -5px;
+    transform: scale(1,1);
+    transition: .5s;
 }
 
 .nav__list{

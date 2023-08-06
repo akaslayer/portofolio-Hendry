@@ -13,7 +13,7 @@ import Pro9 from '../../assets/Dsion.JPG';
 
 
 
-const Card = (props) => {
+const Card = () => {
     return(
     <div>
     <div className="cards">

@@ -3,11 +3,13 @@ import "./About.css";
 import AboutImg from '../../assets/foto-remove.png';
 import CV from '../../assets/CV_HendryTjahajaSurijantoPutra.pdf';
 import Social from "./social";
+import { useNav } from "../../hooks/useNav";
 
 
 const About = () => {
+    const aboutRef = useNav("About")
     return(
-        <section className="about section" id="aboutSection">
+        <section ref={aboutRef} className="about section" id="aboutSection">
         <h2 className="section__title">About Me</h2>
         <span className="section__subtitle">My Introduction</span>
 
