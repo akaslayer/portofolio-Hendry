@@ -190,8 +190,12 @@ img {
 @media screen and (max-width:768px) {
   .section{
     padding: 2rem 0 4rem;
-    
-
+  }
+  .section__title {
+    font-size: 1.7rem;
+  }
+  .section__subtitle {
+    font-size: 0.9rem;
   }
   
   
