@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import AboutImg from '../../assets/foto-remove.png';
-import CV from '../../assets/CV_HendryTjahajaSurijantoPutra.pdf';
+import CV from '../../assets/CV - Hendry Tjahaja Surijanto Putra.pdf';
 import Social from "./social";
 import { useNav } from "../../hooks/useNav";
 

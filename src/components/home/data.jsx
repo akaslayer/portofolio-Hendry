@@ -10,7 +10,7 @@ const Data = () => {
                             words={['Backend Developer', 'Web Developer','Game Developer']}
                             loop={false}
                             cursor={true} /></span></p>
-        <a href="#about" className="button button--flex">About Me</a>
+        <a href="#aboutSection" className="button button--flex">Read More</a>
       </div>
     )
 }
