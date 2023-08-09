@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/portofolio-Hendry/static/css/main.7e09848b.css",
-    "main.js": "/portofolio-Hendry/static/js/main.8042dca3.js",
+    "main.css": "/portofolio-Hendry/static/css/main.acaa8bee.css",
+    "main.js": "/portofolio-Hendry/static/js/main.e46dec4a.js",
     "static/js/787.4cee449c.chunk.js": "/portofolio-Hendry/static/js/787.4cee449c.chunk.js",
     "static/media/aqua-lord.JPG": "/portofolio-Hendry/static/media/aqua-lord.f0c28a4af1fec27c5358.JPG",
     "static/media/foto-remove.png": "/portofolio-Hendry/static/media/foto-remove.fe4df0f9ac53328f010f.png",
-    "static/media/CV_HendryTjahajaSurijantoPutra.pdf": "/portofolio-Hendry/static/media/CV_HendryTjahajaSurijantoPutra.c7deff5e75c4b006cbc8.pdf",
+    "static/media/CV - Hendry Tjahaja Surijanto Putra.pdf": "/portofolio-Hendry/static/media/CV - Hendry Tjahaja Surijanto Putra.727fc1ec423bb10fba44.pdf",
     "static/media/hotel.JPG": "/portofolio-Hendry/static/media/hotel.e721a7ce88bc80089934.JPG",
     "static/media/resto.JPG": "/portofolio-Hendry/static/media/resto.8934856824f5450f5b29.JPG",
     "static/media/profile.png": "/portofolio-Hendry/static/media/profile.d19cbdc61ed5cbff877f.png",
+    "static/media/Dsion.JPG": "/portofolio-Hendry/static/media/Dsion.788c5d06692c5028ab24.JPG",
+    "static/media/anima.JPG": "/portofolio-Hendry/static/media/anima.13e418f8654c08e9bcd0.JPG",
     "static/media/hendry_run.png": "/portofolio-Hendry/static/media/hendry_run.0341043be2145f21b4c9.png",
     "static/media/frood.png": "/portofolio-Hendry/static/media/frood.94f27a5daaf6441ad300.png",
     "static/media/bentask.png": "/portofolio-Hendry/static/media/bentask.c463a60e785502c0de74.png",
     "index.html": "/portofolio-Hendry/index.html",
-    "main.7e09848b.css.map": "/portofolio-Hendry/static/css/main.7e09848b.css.map",
-    "main.8042dca3.js.map": "/portofolio-Hendry/static/js/main.8042dca3.js.map",
+    "main.acaa8bee.css.map": "/portofolio-Hendry/static/css/main.acaa8bee.css.map",
+    "main.e46dec4a.js.map": "/portofolio-Hendry/static/js/main.e46dec4a.js.map",
     "787.4cee449c.chunk.js.map": "/portofolio-Hendry/static/js/787.4cee449c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e09848b.css",
-    "static/js/main.8042dca3.js"
+    "static/css/main.acaa8bee.css",
+    "static/js/main.e46dec4a.js"
   ]
 }
