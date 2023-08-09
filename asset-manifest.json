@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portofolio-Hendry/static/css/main.acaa8bee.css",
+    "main.css": "/portofolio-Hendry/static/css/main.dc7ac9ae.css",
     "main.js": "/portofolio-Hendry/static/js/main.e46dec4a.js",
     "static/js/787.4cee449c.chunk.js": "/portofolio-Hendry/static/js/787.4cee449c.chunk.js",
     "static/media/aqua-lord.JPG": "/portofolio-Hendry/static/media/aqua-lord.f0c28a4af1fec27c5358.JPG",
@@ -15,12 +15,12 @@
     "static/media/frood.png": "/portofolio-Hendry/static/media/frood.94f27a5daaf6441ad300.png",
     "static/media/bentask.png": "/portofolio-Hendry/static/media/bentask.c463a60e785502c0de74.png",
     "index.html": "/portofolio-Hendry/index.html",
-    "main.acaa8bee.css.map": "/portofolio-Hendry/static/css/main.acaa8bee.css.map",
+    "main.dc7ac9ae.css.map": "/portofolio-Hendry/static/css/main.dc7ac9ae.css.map",
     "main.e46dec4a.js.map": "/portofolio-Hendry/static/js/main.e46dec4a.js.map",
     "787.4cee449c.chunk.js.map": "/portofolio-Hendry/static/js/787.4cee449c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acaa8bee.css",
+    "static/css/main.dc7ac9ae.css",
     "static/js/main.e46dec4a.js"
   ]
 }
